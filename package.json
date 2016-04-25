@@ -1,9 +1,15 @@
 {
   "name": "scss-parser",
   "version": "1.0.0",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/salesforce-ux/scss-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/salesforce-ux/scss-parser/issues"
+  },
   "description": "A library to parse/stringify SCSS",
   "main": "dist/index.js",
-  "license": "SEE LICENSE IN README",
   "engines": {
     "node": ">=5.0.0"
   },
